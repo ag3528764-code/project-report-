@@ -10,7 +10,8 @@ Groundwater exists within three distinct subsurface hydro-geological zones, each
 
 <br />
 
-<!-- Image 1: Subsurface Layer Architecture & Hydro-Spatial Dynamics Diagram -->
+<<img width="601" height="340" alt="Picture1" src="https://github.com/user-attachments/assets/bd4fdabd-9d83-4399-a710-14bf6a1ac6b5" />
+>
 
 <br />
 
