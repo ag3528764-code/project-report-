@@ -8,7 +8,8 @@
 ### 1.1 Subsurface Layer Architecture & Hydro-Spatial Dynamics
 Groundwater exists within three distinct subsurface hydro-geological zones, each imposing unique temporal boundaries and dynamic constraints on predictive machine learning models:
 
-![Uploading Picture1.png…]()
+<img width="601" height="340" alt="Picture1" src="https://github.com/user-attachments/assets/1f713266-041a-4e49-a85e-bdff9634025a" />
+
 
 
 
