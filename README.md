@@ -8,7 +8,8 @@
 ### 1.1 Subsurface Layer Architecture & Hydro-Spatial Dynamics
 Groundwater exists within three distinct subsurface hydro-geological zones, each imposing unique temporal boundaries and dynamic constraints on predictive machine learning models:
 
-![Picture 1: Subsurface Aquifer Layering and Hydrological Dynamics](./images/Picture1.png)
+![Uploading Picture1.png…]()
+
 
 * **Unconfined Aquifer (Phreatic / Water Table Layer):**
   * **Physical Behavior:** Directly exposed to atmospheric condition changes via unsaturated soil zone infiltration ($f_i$). Lacks an upper impermeable boundary.
