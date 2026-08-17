@@ -11,6 +11,7 @@ Groundwater exists within three distinct subsurface hydro-geological zones, each
 ![Uploading Picture1.png…]()
 
 
+
 * **Unconfined Aquifer (Phreatic / Water Table Layer):**
   * **Physical Behavior:** Directly exposed to atmospheric condition changes via unsaturated soil zone infiltration ($f_i$). Lacks an upper impermeable boundary.
   * **ML Architecture Impact:** High temporal sensitivity. Models must account for short lag times ($1 \le \tau \le 15\text{ days}$) relative to surface precipitation events ($P$). Exhibits high dynamic variance.
